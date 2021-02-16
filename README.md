@@ -1,1 +1,2 @@
-# BAR-CODE-SCANNER
+# BarCodeScanner
+BarCode scanning in WiLy
